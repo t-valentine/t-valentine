@@ -1,6 +1,6 @@
 # Tobi Wallace
 
-👋 Hi, I’m Tobi Wallace, you can read more about my work on my [LinkedIn](https://www.linkedin.com/in/tvwallace/).
+👋 Hi, I’m Tobi Valentine
 
 <!-- ## Contents
 - Projects
