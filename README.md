@@ -7,12 +7,10 @@
 - Technologies
 - Contact 
  
-## 🌱 Projects 
-https://github.com/amirfounder
-- Tobi Apparel Demo API.NET
-- Tobi Apparel Demo React
-- Tobi Health Clinic Demo (am I allowed to post my Health Clinic? If so, I'd prefer to link solo work on this.)
- -->
+## 🌱 Projects
+- [Art Portfolio](): a website I created on Neocities to host my art and comics for free
+- [Cos Help](https://strahdhelp.neocities.org/): a lightweight website using HTML, CSS, and JavaScript to help my friends and I play D&D. Looks best when viewed on a mobile Device
+-->
 
 ## 🌿 Technologies
 - Agile
@@ -27,4 +25,3 @@ https://github.com/amirfounder
 - PostgreSQL
 - React
 
-<!-- ## 🍃 Contact -->
