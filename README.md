@@ -22,6 +22,9 @@
 - HTML
 - Javascript
 - Jest
+- Microsoft Power Apps
+- Microsoft Power Bi
 - PostgreSQL
+- Python
 - React
 
